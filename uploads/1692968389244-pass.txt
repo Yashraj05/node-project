@@ -1,3 +1,0 @@
-
-
-git remte add orgit https://ausnam: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@github/
